@@ -35,7 +35,7 @@ The following ***user stories*** are all supported in GUI:
 
 ## Credits
 
-- Created by Andrew Chen, iphonedodici3@gmail.com
+- Created by Andrew Chen, andrewchenubc2021@gmail.com
 
 I decided to make this application because there is a growing understanding in today's competitive industries, such as
 banks, of the importance of promoting outstanding customer service, as it is critical in deciding a business's
